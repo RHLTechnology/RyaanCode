@@ -1,0 +1,12 @@
+print "Welcome to Coding"
+print "chapter 1 print"
+print "print will allow you to have text appear when a program runs" 
+print "For coding you type print have quotes around the text portion NOT THE print.Also remember that there is a space between the print and text"
+print "This is all print being used.Feel free to take a break and try for yourself.Now make the command yourself with the words HELLO WORLD! But have quotations around it all,it doesn't work without it"
+a = input()
+if a == "print HELLO WORLD!":
+        print "Cool Now you know the basics now go bug me for Chapter 2 when I get it done"
+        print "Credit To Ryaan who designed this as a small test"
+elif a != "print HELLO WORLD!":
+	print "So you dont get it well thats ok Try again"
+	print "Credit To Ryaan who designed this as a small test"
